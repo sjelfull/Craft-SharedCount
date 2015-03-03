@@ -1,6 +1,6 @@
 ## Craft SharedCount plugin
 
-Use [SharedCount.com](http://www.sharedcount.com/) to fetch statistics about shares/likes the following services in one call:
+Use [SharedCount.com](http://www.sharedcount.com/) to fetch statistics about shares/likes from the following services in one call:
 
 - Facebook 
 - Twitter

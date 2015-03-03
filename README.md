@@ -13,7 +13,7 @@ Use [SharedCount.com](http://www.sharedcount.com/) to fetch statistics about sha
 
 ```
 {% set stats = craft.sharedcount.likes({
-    url: http://google.com
+    url: 'http://google.com'
 }) %}
 
 <ul>

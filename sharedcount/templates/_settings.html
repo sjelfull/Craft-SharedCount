@@ -1,0 +1,10 @@
+{% import '_includes/forms' as forms %}
+
+{{ forms.textField({
+label: 'SharedCount API Key'|t,
+required: true,
+name: 'apiKey',
+value: settings.apiKey,
+placeholder: "xxxxxxxxxxxxxxxxx",
+errors: settings.getErrors('apiKey')
+}) }}
